@@ -18,4 +18,4 @@ To run the JupyterLab:
 
 Default browser should start and connect to the JupyterLab server in the new tab.
 
-Lastly, it's always a good idea to have the [documentation](https://spark.apache.org/docs/latest/sql-getting-started.html) open in another tab of the browser.
+Lastly, it's always a good idea to have the [documentation](https://spark.apache.org/docs/latest/sql-getting-started.html) open in another tab of the browser. [This](https://sparkbyexamples.com/) site may also be handy.
